@@ -1,0 +1,6 @@
+/myenv
+/__pycache__
+/routes/__pycache__
+/schemas/__pycache__
+/models/__pycache__
+/config/__pycache__
